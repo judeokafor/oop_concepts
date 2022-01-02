@@ -158,4 +158,4 @@ d.printName();
 
 
 
-More reads on [typescript classes](https://www.typescriptlang.org/docs/handbook/2/classes.html).[^1]
+More reads on [typescript classes](https://www.typescriptlang.org/docs/handbook/2/classes.html) [^1].
